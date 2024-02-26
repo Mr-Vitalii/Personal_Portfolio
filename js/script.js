@@ -138,6 +138,8 @@ for (let i = 0; i < formInputs.length; i++) {
 }
 
 
+
+
 //* Page navigation
 // page navigation variables
 const navigationLinks = document.querySelectorAll("[data-nav-link]");
